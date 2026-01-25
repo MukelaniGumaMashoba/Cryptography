@@ -1,0 +1,1 @@
+// we need to first import the library and then using symmetric encryption and randombytes for salt
